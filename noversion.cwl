@@ -1,4 +1,5 @@
 class: Workflow
+cwlVersion: v1.0
 description: ''
 hints:
 - {class: 'sbg:GoogleInstanceType', value: n1-standard-1}
